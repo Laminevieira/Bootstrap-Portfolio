@@ -49,6 +49,45 @@ body {
     padding: 10px;
     font-family: 'Arial', "Helvetica Neue", Helvetica, sans-serif;
     overflow: hidden;}
+    
 
+    .col-md-8 {
+        background-color: #ffffff;
+
+
+    }
+    .col-md-4 {
+        background-color: #ffffff;
+
+    }
+    #connect{
+        color: teal;
+        font-size: 30px;
+    }
+    .navbarnavbar-expand-lgnavbar-infp{
+        color: teal
+    }
+
+    h4{
+        color: teal;
+    }
+    .navbar{
+        color: teal;
+    }
+    .form-group{
+        color:#777777;
+    }
+
+    .display-4{
+        color: teal;
+
+    }
+    .col-md-2{
+        background-color: #ffffff;
+    }
+    .col-md-3{
+        background-color: #ffffff;
+    }
+    
 
     
